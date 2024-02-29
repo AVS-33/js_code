@@ -1,4 +1,4 @@
-let firstName = "Venkata Suresh";
+let firstName = "Venkata Suresh"; // let is used to declare an variable 
 let lastName = "Akula";
 let age = 25;
 let adress = "vinjamuru";
