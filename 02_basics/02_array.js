@@ -26,6 +26,7 @@ let myArr5 = myArr.concat(myArr2).flat(); //form a single dimensional array from
 console.log(Array.isArray(myArr)); // returns true if the object is an array
 // arry.from
 console.log(Array.from(myArr));// creates an array from an object
+console.log(Array.from("hitesh")); // creates an array from a string
 console.log(Array.from({ name: "hitesh" })); // gives empty array because not declared to create either key or value to an array
 let score1 = 100
 let score2 = 200
