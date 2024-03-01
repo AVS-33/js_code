@@ -39,3 +39,7 @@ console.log(Object.keys(obj1)); // returns an array of keys
 console.log(Object.values(obj1)); // returns an array of values
 console.log(Object.entries(obj1)); // returns an array of arrays
 console.log(obj1.hasOwnProperty("1")); // returns true if the object has the property
+
+console.log(JSON.stringify(obj1));// converts an object to a string
+//value of an object
+console.log(JSON.parse(JSON.stringify(obj1))); 
