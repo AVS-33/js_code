@@ -42,4 +42,4 @@ function myarr(myArray) {
     console.log(`array value is ${myArray}`);
     
 }
-myarr([1,2,3,4])
+myarr([1, 2, 3, 4]);
